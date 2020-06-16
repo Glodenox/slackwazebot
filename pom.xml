@@ -51,17 +51,7 @@
 		<dependency>
 			<groupId>com.ullink.slack</groupId>
 			<artifactId>simpleslackapi</artifactId>
-			<version>0.4.5</version>
-		</dependency>
-		<dependency>
-			<groupId>org.glassfish.tyrus.bundles</groupId>
-			<artifactId>tyrus-standalone-client</artifactId>
-			<version>1.8.3</version>
-		</dependency>
-		<dependency>
-			<groupId>com.googlecode.json-simple</groupId>
-			<artifactId>json-simple</artifactId>
-			<version>1.1.1</version>
+			<version>1.2.0</version>
 		</dependency>
 		<dependency>
 			<groupId>org.slf4j</groupId>
@@ -72,22 +62,6 @@
 			<groupId>org.slf4j</groupId>
 			<artifactId>slf4j-simple</artifactId>
 			<version>1.7.12</version>
-		</dependency>
-		<dependency>
-			<groupId>org.apache.httpcomponents</groupId>
-			<artifactId>httpclient</artifactId>
-			<version>4.4</version>
-		</dependency>
-		<dependency>
-			<groupId>com.google.guava</groupId>
-			<artifactId>guava</artifactId>
-			<version>18.0</version>
-		</dependency>
-		<dependency>
-			<groupId>org.mockito</groupId>
-			<artifactId>mockito-all</artifactId>
-			<version>1.9.5</version>
-			<scope>test</scope>
 		</dependency>
 	</dependencies>
 </project>
